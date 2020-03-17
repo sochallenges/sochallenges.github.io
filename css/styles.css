@@ -42,11 +42,16 @@ nav ul li {
 }
 
 #credits {
+    background-color: whitesmoke;
+    opacity: 90%;
+    padding: 5px;
+    bottom: 0px;
     text-align: center;
-    position: fixed;
-    margin: 20px;
     font-size: 18px;
-    bottom: 10px;
+    width: 200px;
+    margin: 20px;
+    margin-left: 1220px;
+    margin-top: 80px;
 }
 
 /* Home page specific */
@@ -54,23 +59,25 @@ nav ul li {
 .homepage {
     text-align: center;
     background-color: whitesmoke;
-    opacity: 80%;
+    opacity: 90%;
     margin-top: 30px;
 }
 
 #title {
     margin-left: 15px;
     padding-top: 30px;
+    color: darkblue;
 }
 
 #timer-description {
     padding-top: 20px;
     padding-left: 40px;
-    color: gray;
+    color: black;
     font-size: 24px;
 }
 
 .timer {
+    color: black;
     display: block;
     margin: 0 auto;
     margin-bottom: 25px;
@@ -88,6 +95,10 @@ nav ul li {
 li span {
     display: block;
     font-size: 4.5rem;
+}
+
+#background-btn {
+    background-color: darkblue;
 }
 
 .challenge-btn {
@@ -109,49 +120,65 @@ li span {
 
 .entire-post {
     background-color: whitesmoke;
-    opacity: 80%;
-    margin-top: 30px;
-    margin-left: 40px;
-    margin-right: 40px;
+    opacity: 90%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 100px;
     padding-left: 20px;
     padding-right: 20px;
 }
 
 .back-button {
+    color: darkblue;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 18px;
 }
 
 #post-title {
+    color: darkblue;
+    padding-left: 30px;
     font-size: 48px;
 }
 
 #post-date {
+    padding-left: 30px;
     margin-bottom: 20px;
 }
 
+#post-creator {
+    padding-left: 30px;
+    color: rgb(2, 2, 71);
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
 #post-content {
-    padding-bottom: 15px;
+    color: black;
+    padding-left: 30px;
+    margin-bottom: 15px;
 }
 
 /* Challenge specific */
 
 .challenges-div {
     background-color: whitesmoke;
-    opacity: 80%;
+    opacity: 90%;
     margin-bottom: 100px;
     padding-bottom: 20px;
 }
 
 .page-header {
+    color: darkblue;
     margin-left: 30px;
     padding-top: 30px;
 }
 
 .info {
+    margin-top: 10px;
     margin-left: 30px;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 ul.posts { 
@@ -166,7 +193,7 @@ ul.posts li {
 
 .blog-title {
     padding-top: 20px;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: normal;
 }
 
@@ -184,17 +211,17 @@ ul.posts li {
 
 .blog-date {
     color: rgb(155, 169, 184);
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .content-intro {
-    font-size: 21px;
+    font-size: 18px;
     font-weight: normal;
     margin-right: 30px;
 }
 
 .read-more {
-    font-size: 21px;
+    font-size: 18px;
     margin-left: 7px;
 }
 
