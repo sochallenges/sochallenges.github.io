@@ -1,0 +1,20 @@
+---
+layout: default
+title: Weekly Challenges
+---
+<div class="challenges-div">
+    <h1 class="page-header">{{ page.title }}</h1>
+
+    <p class="info">The first challenge will be posted on March 17th at 4:15 PM. Stay tuned!</p>
+
+    <ul class="posts">
+
+        {% for post in site.posts %}
+        <li><a class="blog-title button-blue" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        <h4 class="blog-date">{{ post.date | date: '%B %d, %Y' }}</h4>
+        <p class="content-intro lead post">{{ post.content | strip_html | truncatewords: 75 }}<a class="button-blue read-more" href="{{ post.url }}">View full challenge...</a></p>
+        {% endfor %}
+    </ul>
+</div>
+    
+    
