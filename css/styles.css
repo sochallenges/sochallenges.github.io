@@ -47,11 +47,12 @@ nav ul li {
     padding: 5px;
     bottom: 0px;
     text-align: center;
+    display: center;
     font-size: 18px;
     width: 200px;
-    margin: 20px;
-    margin-left: 1220px;
-    margin-top: 80px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 15px;
 }
 
 /* Home page specific */
@@ -126,6 +127,23 @@ li span {
 
 #background-btn-2 {
     background-color: darkred;
+}
+
+.space {
+    background: transparent;
+    padding: 5px;
+}
+
+#faq {
+    padding-top: 20px;
+}
+
+#qna {
+    font-size: 20px;
+    text-align: left;
+    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 /* Post format specific */
