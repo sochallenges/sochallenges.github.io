@@ -12,7 +12,7 @@ title: Weekly Challenges
         {% for post in site.posts %}
         <li><a class="blog-title button-blue" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
         <h5 class="blog-date">{{ post.date | date: '%B %d, %Y' }}</h5>
-        <p class="content-intro lead post">{{ post.content | strip_html | truncatewords: 50 }}<a class="button-blue read-more" href="{{ post.url }}">View full challenge ></a></p>
+        <p class="content-intro lead post">{{ post.content | strip_html | truncatewords: 50 }}<a class="button-blue read-more" href="{{ post.url }}">More ></a></p>
         {% endfor %}
     </ul>
 </div>
