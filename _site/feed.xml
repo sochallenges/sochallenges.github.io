@@ -1,30 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-31T15:47:07-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Science Olympiad Club’s Weekly Challenges</title><subtitle>Due to COVID-19, in lieu of the Science Olympiad Regionals, we have come up with weekly challenges to stimulate our members through their participation in science-themed build and solve puzzles.</subtitle><entry><title type="html">Challenge 3: Sounds of Music</title><link href="http://localhost:4000/challenges/challenge3" rel="alternate" type="text/html" title="Challenge 3: Sounds of Music" /><published>2020-03-31T00:00:00-07:00</published><updated>2020-03-31T00:00:00-07:00</updated><id>http://localhost:4000/challenges/challenge3</id><content type="html" xml:base="http://localhost:4000/challenges/challenge3">&lt;p&gt;This week we’re bringing out a fun one: Sounds of Music!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-31T16:03:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Science Olympiad Club’s Weekly Challenges</title><subtitle>Due to COVID-19, in lieu of the Science Olympiad Regionals, we have come up with weekly challenges to stimulate our members through their participation in science-themed build and solve puzzles.</subtitle><entry><title type="html">Challenge 3: Sounds of Music</title><link href="http://localhost:4000/challenges/challenge3" rel="alternate" type="text/html" title="Challenge 3: Sounds of Music" /><published>2020-03-31T00:00:00-07:00</published><updated>2020-03-31T00:00:00-07:00</updated><id>http://localhost:4000/challenges/challenge3</id><content type="html" xml:base="http://localhost:4000/challenges/challenge3">&lt;p&gt;This week we’re bringing out a fun one: Sounds of Music, with a &lt;em&gt;big&lt;/em&gt; twist!&lt;/p&gt;
 
-&lt;p&gt;For this challenge, you will listening to the following audio clips, and try to identify what object is producing the noise. Your submission will include &lt;strong&gt;a numbered list from 1 to 10, with your corresponding guess&lt;/strong&gt;. This is an accuracy challenge, and up to three points will be awarded for each correct guess. Here are the scoring guidelines:&lt;/p&gt;
+&lt;p&gt;For this challenge, you will listening to the following audio clips, and try to identify what object is producing the noise. Your submission will include &lt;strong&gt;a numbered list from 1 to 15, with your corresponding guess&lt;/strong&gt;. This is an accuracy challenge, and up to three points will be awarded for each correct guess. Here are the scoring guidelines:&lt;/p&gt;
 
 &lt;p&gt;1 point: object within the ballpark (judge’s discretion)&lt;br /&gt;
 2 points: correct object&lt;br /&gt;
 3 points: correct object + exact description&lt;/p&gt;
 
-&lt;p&gt;Example:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Example:&lt;/em&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot;&gt;
-    &lt;source src=&quot;/assets/challenge3/0.m4a&quot; type=&quot;audio/m4a&quot; /&gt;
+    &lt;source src=&quot;/assets/challenge3/0.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
 &lt;/audio&gt;
 
-&lt;p&gt;1 point: Paper&lt;br /&gt;
-2 points: Post-It note&lt;br /&gt;
-3 points: Single Post-It note attached to a surface&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;1 point: Paper&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;2 points: Post-It note&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;3 points: Single Post-It note attached to a surface&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Winners and this week’s prize will be announced on Sunday at 9:00 PM.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;The Challenge&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sound 1&lt;/p&gt;
 &lt;audio controls=&quot;&quot;&gt;
-    &lt;source src=&quot;/assets/challenge3/0.m4a&quot; type=&quot;audio/m4a&quot; /&gt;
+    &lt;source src=&quot;/assets/challenge3/1.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
 &lt;/audio&gt;
 
-&lt;p&gt;Sounds good! Make sure to send in your guesses by 9:00 PM on Sunday!&lt;/p&gt;</content><author><name></name></author><summary type="html">This week we’re bringing out a fun one: Sounds of Music!</summary></entry><entry><title type="html">Challenge 2: Winners and Announcements</title><link href="http://localhost:4000/challenges/winners_challenge2" rel="alternate" type="text/html" title="Challenge 2: Winners and Announcements" /><published>2020-03-29T00:00:00-07:00</published><updated>2020-03-29T00:00:00-07:00</updated><id>http://localhost:4000/challenges/winners_challenge2</id><content type="html" xml:base="http://localhost:4000/challenges/winners_challenge2">&lt;p&gt;I was blown away by the creativity I saw this week! Some submissions had me laughing out loud while others had me admiring how accurate and technical they were.&lt;/p&gt;
+&lt;p&gt;Sound 2&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/2.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 3&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/3.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 4&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/4.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 5&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/5.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 6&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/6.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 7&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/7.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 8&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/8.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 9&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/9.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 10&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/10.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 11&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/11.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 12&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/12.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 13&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/13.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 14&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/14.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Sound 15&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/challenge3/15.m4a&quot; type=&quot;audio/mp4&quot; /&gt;
+&lt;/audio&gt;
+&lt;p&gt;&lt;br /&gt;
+Sounds good! Make sure to send in your guesses by 9:00 PM on Sunday!&lt;/p&gt;</content><author><name></name></author><summary type="html">This week we’re bringing out a fun one: Sounds of Music, with a big twist!</summary></entry><entry><title type="html">Challenge 2: Winners and Announcements</title><link href="http://localhost:4000/challenges/winners_challenge2" rel="alternate" type="text/html" title="Challenge 2: Winners and Announcements" /><published>2020-03-29T00:00:00-07:00</published><updated>2020-03-29T00:00:00-07:00</updated><id>http://localhost:4000/challenges/winners_challenge2</id><content type="html" xml:base="http://localhost:4000/challenges/winners_challenge2">&lt;p&gt;I was blown away by the creativity I saw this week! Some submissions had me laughing out loud while others had me admiring how accurate and technical they were.&lt;/p&gt;
 
 &lt;p&gt;OK, enough talk, let’s announce our winners:&lt;/p&gt;
 
